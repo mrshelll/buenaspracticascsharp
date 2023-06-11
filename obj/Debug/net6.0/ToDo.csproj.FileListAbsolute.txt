@@ -1,0 +1,15 @@
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.deps.json
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.dll
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.pdb
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.csproj.AssemblyReference.cache
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.GeneratedMSBuildEditorConfig.editorconfig
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.AssemblyInfoInputs.cache
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.AssemblyInfo.cs
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.csproj.CoreCompileInputs.cache
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.dll
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\refint\ToDo.dll
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.pdb
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ref\ToDo.dll
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.exe
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\bin\Debug\net6.0\ToDo.runtimeconfig.json
+C:\R\codigoLimpioCSharp\curso-codigo-limpio-csharp\obj\Debug\net6.0\ToDo.genruntimeconfig.cache
